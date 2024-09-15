@@ -1,0 +1,1457 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "type": "text",
+      "version": 135,
+      "versionNonce": 1294502199,
+      "index": "a0",
+      "isDeleted": false,
+      "id": "iKVmc_Ky-b0Gjffq6CL0M",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 326.3333435058594,
+      "y": 111.66665649414062,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "width": 368.99820312500003,
+      "height": 64,
+      "seed": 655059935,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1725902373087,
+      "link": null,
+      "locked": false,
+      "fontSize": 51.19999999999999,
+      "fontFamily": 5,
+      "text": "CREDIT RISK",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "CREDIT RISK",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "type": "text",
+      "version": 84,
+      "versionNonce": 2042041841,
+      "index": "aD",
+      "isDeleted": false,
+      "id": "YUh9ds8Rdt5ihWYveNVoa",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 398.61902727399547,
+      "y": 228.18772855722528,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "width": 323.89976501464844,
+      "height": 23,
+      "seed": 1479477177,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1725993763160,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 7,
+      "text": " Probabilidade de Inadimplência (PD)",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": " Probabilidade de Inadimplência (PD)",
+      "autoResize": true,
+      "lineHeight": 1.15
+    },
+    {
+      "type": "text",
+      "version": 589,
+      "versionNonce": 1823637119,
+      "index": "aG",
+      "isDeleted": false,
+      "id": "vTZSd--5KXhPUaQvmbTU3",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 409.34842127019715,
+      "y": 259.9104033949452,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "width": 538.7475019182477,
+      "height": 195.33827607184915,
+      "seed": 121144023,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1725994859978,
+      "link": null,
+      "locked": false,
+      "fontSize": 15.627062085747934,
+      "fontFamily": 5,
+      "text": "A Probabilidade de Inadimplência (PD - Probability of Default) é a \nmedida que estima a chance de um devedor (individual ou corporativo) \nnão cumprir com suas obrigações financeiras, ou seja, deixar de pagar \numa dívida em um horizonte de tempo específico, geralmente 12 meses.\n\nExemplo:\nSe uma instituição financeira atribui uma PD de 5% para um cliente, \nisso significa que, com base em dados históricos e outros fatores, há \numa chance de 5% desse cliente entrar em inadimplência dentro do \npróximo ano.",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "A Probabilidade de Inadimplência (PD - Probability of Default) é a medida que estima a chance de um devedor (individual ou corporativo) não cumprir com suas obrigações financeiras, ou seja, deixar de pagar uma dívida em um horizonte de tempo específico, geralmente 12 meses.\n\nExemplo:\nSe uma instituição financeira atribui uma PD de 5% para um cliente, isso significa que, com base em dados históricos e outros fatores, há uma chance de 5% desse cliente entrar em inadimplência dentro do próximo ano.",
+      "autoResize": false,
+      "lineHeight": 1.25
+    },
+    {
+      "type": "text",
+      "version": 139,
+      "versionNonce": 1939815601,
+      "index": "aH",
+      "isDeleted": false,
+      "id": "egAzfxNW_e1tTRZn4KCvt",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 398.19045584542414,
+      "y": 462.7618844168527,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "width": 294.4597473144531,
+      "height": 23,
+      "seed": 829046967,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1725993895826,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 7,
+      "text": "Perda Dada a Inadimplência (LGD)",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Perda Dada a Inadimplência (LGD)",
+      "autoResize": true,
+      "lineHeight": 1.15
+    },
+    {
+      "type": "text",
+      "version": 397,
+      "versionNonce": 1684874527,
+      "index": "aI",
+      "isDeleted": false,
+      "id": "1aS8mG-jC9HxvWF2nF3hh",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 409.2856837681362,
+      "y": 499.9749014569657,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "width": 554.1215515136719,
+      "height": 280,
+      "seed": 149707353,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1725996022306,
+      "link": null,
+      "locked": false,
+      "fontSize": 16,
+      "fontFamily": 5,
+      "text": "A Perda Dada a Inadimplência (LGD - Loss Given Default) é a \nporcentagem da exposição total que a instituição perderá se o \ndevedor entrar em inadimplência. Em outras palavras, LGD estima \nquanto a instituição perde caso o devedor não pague a dívida.\n\nEla leva em consideração recuperações, colaterais (garantias) e \nacordos de reestruturação de dívida. Se o credor conseguir recuperar \nparte do valor de uma dívida inadimplente (por exemplo, vendendo \ngarantias ou através de processos judiciais), a LGD será menor.\n\nExemplo:\nSe um cliente deve $100.000 e, no caso de inadimplência, o banco \nconsegue recuperar $40.000 através de uma garantia, a LGD será \n60%.",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "A Perda Dada a Inadimplência (LGD - Loss Given Default) é a porcentagem da exposição total que a instituição perderá se o devedor entrar em inadimplência. Em outras palavras, LGD estima quanto a instituição perde caso o devedor não pague a dívida.\n\nEla leva em consideração recuperações, colaterais (garantias) e acordos de reestruturação de dívida. Se o credor conseguir recuperar parte do valor de uma dívida inadimplente (por exemplo, vendendo garantias ou através de processos judiciais), a LGD será menor.\n\nExemplo:\nSe um cliente deve $100.000 e, no caso de inadimplência, o banco consegue recuperar $40.000 através de uma garantia, a LGD será 60%.",
+      "autoResize": false,
+      "lineHeight": 1.25
+    },
+    {
+      "type": "text",
+      "version": 118,
+      "versionNonce": 252829367,
+      "index": "aK",
+      "isDeleted": false,
+      "id": "xxbhn-tHjo6UWl1YUoPhC",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1122.8334655761719,
+      "y": 226.66661071777344,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "width": 406.47967529296875,
+      "height": 23,
+      "seed": 1543542295,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1725902490351,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 7,
+      "text": "Exposição no Momento da Inadimplência (EAD)",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Exposição no Momento da Inadimplência (EAD)",
+      "autoResize": true,
+      "lineHeight": 1.15
+    },
+    {
+      "type": "text",
+      "version": 381,
+      "versionNonce": 1259397169,
+      "index": "aM",
+      "isDeleted": false,
+      "id": "L2KEQwxucSh-06tf2Va5O",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1136.4048941476003,
+      "y": 266.2999885559082,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "width": 569.1927185058596,
+      "height": 280,
+      "seed": 1942910903,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1725993887825,
+      "link": null,
+      "locked": false,
+      "fontSize": 16,
+      "fontFamily": 5,
+      "text": "A Exposição no Momento da Inadimplência (EAD - Exposure at Default) \né a quantidade de dinheiro que a instituição estará exposta ao devedor \nno momento em que ocorre a inadimplência. Esta métrica representa a \nquantia total que o credor está sujeito a perder.\n\nA EAD pode variar dependendo da natureza do produto de crédito. Por \nexemplo, no caso de um empréstimo parcelado, o EAD é o saldo restante\nda dívida no momento da inadimplência. Já em um limite de crédito \nrotativo, como um cartão de crédito, o EAD pode ser o valor total \ndisponível que o cliente poderia ter usado até a data da inadimplência.\n\nExemplo:\nSe um cliente tem um limite de crédito de $20.000 e já utilizou $15.000 \nno momento da inadimplência, a EAD seria $15.000.",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "A Exposição no Momento da Inadimplência (EAD - Exposure at Default) é a quantidade de dinheiro que a instituição estará exposta ao devedor no momento em que ocorre a inadimplência. Esta métrica representa a quantia total que o credor está sujeito a perder.\n\nA EAD pode variar dependendo da natureza do produto de crédito. Por exemplo, no caso de um empréstimo parcelado, o EAD é o saldo restante da dívida no momento da inadimplência. Já em um limite de crédito rotativo, como um cartão de crédito, o EAD pode ser o valor total disponível que o cliente poderia ter usado até a data da inadimplência.\n\nExemplo:\nSe um cliente tem um limite de crédito de $20.000 e já utilizou $15.000 no momento da inadimplência, a EAD seria $15.000.",
+      "autoResize": false,
+      "lineHeight": 1.25
+    },
+    {
+      "type": "text",
+      "version": 198,
+      "versionNonce": 1568384415,
+      "index": "aS",
+      "isDeleted": false,
+      "id": "DKpPIqYd7QRPeY_bms0ix",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 785.7382053523869,
+      "y": 1024.2966965575333,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "width": 338.1796569824219,
+      "height": 23,
+      "seed": 1710904945,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1725996037835,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 7,
+      "text": "Exemplos Históricos de Risco de Crédito",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Exemplos Históricos de Risco de Crédito",
+      "autoResize": true,
+      "lineHeight": 1.15
+    },
+    {
+      "type": "text",
+      "version": 550,
+      "versionNonce": 1765863103,
+      "index": "aW",
+      "isDeleted": false,
+      "id": "xxaJgxVAoka_ZqHpaujUT",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 800.4568200710013,
+      "y": 1078.9776489384851,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "width": 857.9307338169638,
+      "height": 120,
+      "seed": 1078311953,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1725996039702,
+      "link": null,
+      "locked": false,
+      "fontSize": 16,
+      "fontFamily": 5,
+      "text": "Crise Financeira Global de 2008: Esta crise foi causada em grande parte pela subavaliação do risco de \ncrédito, especialmente no setor imobiliário dos Estados Unidos. Os bancos concederam empréstimos \nhipotecários de alto risco a mutuários com baixa capacidade de pagamento. Esses empréstimos foram \nagrupados em títulos lastreados em hipotecas subprime e vendidos como investimentos seguros. Quando \nmuitos mutuários não conseguiram pagar suas hipotecas, os valores desses títulos despencaram, resultando \nem perdas massivas para as instituições financeiras e em uma crise global.",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Crise Financeira Global de 2008: Esta crise foi causada em grande parte pela subavaliação do risco de crédito, especialmente no setor imobiliário dos Estados Unidos. Os bancos concederam empréstimos hipotecários de alto risco a mutuários com baixa capacidade de pagamento. Esses empréstimos foram agrupados em títulos lastreados em hipotecas subprime e vendidos como investimentos seguros. Quando muitos mutuários não conseguiram pagar suas hipotecas, os valores desses títulos despencaram, resultando em perdas massivas para as instituições financeiras e em uma crise global.",
+      "autoResize": false,
+      "lineHeight": 1.25
+    },
+    {
+      "type": "freedraw",
+      "version": 40,
+      "versionNonce": 258117009,
+      "index": "am",
+      "isDeleted": false,
+      "id": "deSUO3g9QIkXmGjUmbw_8",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 558.7035733177559,
+      "y": 797.0629303237672,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "width": 230,
+      "height": 325,
+      "seed": 1101094929,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1725996025971,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -1.6666666666667425,
+          1.6666666666667425
+        ],
+        [
+          -6.6666666666667425,
+          8.333333333333371
+        ],
+        [
+          -16.666666666666742,
+          20
+        ],
+        [
+          -26.666666666666742,
+          38.33333333333337
+        ],
+        [
+          -43.333333333333485,
+          65
+        ],
+        [
+          -68.33333333333348,
+          96.66666666666674
+        ],
+        [
+          -88.33333333333348,
+          125
+        ],
+        [
+          -96.66666666666674,
+          141.66666666666674
+        ],
+        [
+          -105.00000000000011,
+          163.33333333333337
+        ],
+        [
+          -118.33333333333348,
+          188.33333333333337
+        ],
+        [
+          -125.00000000000011,
+          200
+        ],
+        [
+          -130.0000000000001,
+          211.66666666666674
+        ],
+        [
+          -133.33333333333348,
+          226.66666666666674
+        ],
+        [
+          -133.33333333333348,
+          245
+        ],
+        [
+          -125.00000000000011,
+          263.33333333333326
+        ],
+        [
+          -120.00000000000011,
+          275
+        ],
+        [
+          -115.00000000000011,
+          283.33333333333326
+        ],
+        [
+          -108.33333333333348,
+          291.66666666666674
+        ],
+        [
+          -98.33333333333348,
+          301.66666666666674
+        ],
+        [
+          -90.00000000000011,
+          308.33333333333326
+        ],
+        [
+          -80.00000000000011,
+          311.66666666666674
+        ],
+        [
+          -70.00000000000011,
+          315
+        ],
+        [
+          -51.66666666666674,
+          316.66666666666674
+        ],
+        [
+          -31.666666666666742,
+          318.33333333333326
+        ],
+        [
+          -13.333333333333485,
+          321.66666666666674
+        ],
+        [
+          1.666666666666515,
+          325
+        ],
+        [
+          16.666666666666515,
+          325
+        ],
+        [
+          31.666666666666515,
+          323.33333333333326
+        ],
+        [
+          46.666666666666515,
+          316.66666666666674
+        ],
+        [
+          60,
+          311.66666666666674
+        ],
+        [
+          68.33333333333326,
+          308.33333333333326
+        ],
+        [
+          75,
+          306.66666666666674
+        ],
+        [
+          76.66666666666652,
+          305
+        ],
+        [
+          78.33333333333326,
+          303.33333333333326
+        ],
+        [
+          85,
+          298.33333333333326
+        ],
+        [
+          91.66666666666652,
+          295
+        ],
+        [
+          96.66666666666652,
+          293.33333333333326
+        ],
+        [
+          96.66666666666652,
+          293.33333333333326
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "simulatePressure": true,
+      "pressures": []
+    },
+    {
+      "type": "freedraw",
+      "version": 52,
+      "versionNonce": 1114501855,
+      "index": "an",
+      "isDeleted": false,
+      "id": "N1n0ip0ljP2UhIkFcTkXP",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 634.8146844288669,
+      "y": 1057.0629303237672,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "width": 46.66666666666674,
+      "height": 56.66666666666674,
+      "seed": 1177499679,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1725998441044,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          3.3333333333332575,
+          1.6666666666667425
+        ],
+        [
+          10,
+          6.6666666666667425
+        ],
+        [
+          16.666666666666742,
+          10
+        ],
+        [
+          21.666666666666742,
+          15
+        ],
+        [
+          28.333333333333258,
+          20
+        ],
+        [
+          33.33333333333326,
+          23.333333333333485
+        ],
+        [
+          38.33333333333326,
+          23.333333333333485
+        ],
+        [
+          41.66666666666674,
+          26.666666666666742
+        ],
+        [
+          45,
+          28.333333333333485
+        ],
+        [
+          45,
+          30
+        ],
+        [
+          46.66666666666674,
+          31.666666666666742
+        ],
+        [
+          45,
+          33.333333333333485
+        ],
+        [
+          41.66666666666674,
+          33.333333333333485
+        ],
+        [
+          36.66666666666674,
+          36.66666666666674
+        ],
+        [
+          30,
+          43.333333333333485
+        ],
+        [
+          23.333333333333258,
+          50
+        ],
+        [
+          18.333333333333258,
+          53.333333333333485
+        ],
+        [
+          15,
+          56.66666666666674
+        ],
+        [
+          13.333333333333258,
+          56.66666666666674
+        ],
+        [
+          11.666666666666742,
+          56.66666666666674
+        ],
+        [
+          10,
+          56.66666666666674
+        ],
+        [
+          10,
+          56.66666666666674
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "simulatePressure": true,
+      "pressures": []
+    },
+    {
+      "type": "text",
+      "version": 148,
+      "versionNonce": 822605777,
+      "index": "ap",
+      "isDeleted": false,
+      "id": "agKpPNvAY2d4rHREfMdMX",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1974.1202399844224,
+      "y": 566.4379303237672,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "width": 179.63983154296875,
+      "height": 23,
+      "seed": 89611473,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1725998301686,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 7,
+      "text": "Reformas de Basileia",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Reformas de Basileia",
+      "autoResize": true,
+      "lineHeight": 1.15
+    },
+    {
+      "type": "text",
+      "version": 473,
+      "versionNonce": 463726897,
+      "index": "aq",
+      "isDeleted": false,
+      "id": "p6LKn1XEMMak2qNSMfDTR",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1982.3494066510893,
+      "y": 621.6923098255563,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "width": 512.5638427734377,
+      "height": 680,
+      "seed": 697251729,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1725998357793,
+      "link": null,
+      "locked": false,
+      "fontSize": 16,
+      "fontFamily": 5,
+      "text": "1. Basileia I (1988)\nO primeiro conjunto de regras introduzido, com foco em:\n\nRequisitos mínimos de capital: Exigia que os bancos mantivessem \num nível mínimo de capital em relação a seus ativos ponderados \npelo risco (principalmente risco de crédito).\n\n2. Basileia II (2004)\nVisou aumentar a sensibilidade ao risco e introduziu três pilares:\n\nPilar 1: Requisitos de capital mínimos para cobrir os riscos de \ncrédito, mercado e operacional.\n\nPilar 2: Supervisão regulatória, exigindo que os bancos tenham \nprocessos internos para avaliar a adequação de seu capital.\n\nPilar 3: Disciplina de mercado, aumentando a transparência e a \ndivulgação de informações pelos bancos.\n\n3. Basileia III (2010)\nA resposta à crise financeira global de 2008, com medidas para \nreforçar o capital e a liquidez:\n\nAumento da qualidade do capital: Exigência de maior proporção \nde capital de alta qualidade (Tier 1), como capital próprio.\nRazão de alavancagem: Introdução de um limite à alavancagem \nbancária para evitar o uso excessivo de endividamento.\nIndicadores de liquidez: Criação do Índice de Liquidez de Curto \nPrazo (LCR) e do Índice de Liquidez de Longo Prazo (NSFR), \npara garantir que os bancos possam honrar seus compromissos em\nprazos curtos e longos.\nCapital contracíclico: Incentiva a formação de amortecedores de \ncapital em períodos de crescimento econômico para absorver \nchoques nas crises.",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "1. Basileia I (1988)\nO primeiro conjunto de regras introduzido, com foco em:\n\nRequisitos mínimos de capital: Exigia que os bancos mantivessem um nível mínimo de capital em relação a seus ativos ponderados pelo risco (principalmente risco de crédito).\n\n2. Basileia II (2004)\nVisou aumentar a sensibilidade ao risco e introduziu três pilares:\n\nPilar 1: Requisitos de capital mínimos para cobrir os riscos de crédito, mercado e operacional.\n\nPilar 2: Supervisão regulatória, exigindo que os bancos tenham processos internos para avaliar a adequação de seu capital.\n\nPilar 3: Disciplina de mercado, aumentando a transparência e a divulgação de informações pelos bancos.\n\n3. Basileia III (2010)\nA resposta à crise financeira global de 2008, com medidas para reforçar o capital e a liquidez:\n\nAumento da qualidade do capital: Exigência de maior proporção de capital de alta qualidade (Tier 1), como capital próprio.\nRazão de alavancagem: Introdução de um limite à alavancagem bancária para evitar o uso excessivo de endividamento.\nIndicadores de liquidez: Criação do Índice de Liquidez de Curto Prazo (LCR) e do Índice de Liquidez de Longo Prazo (NSFR), para garantir que os bancos possam honrar seus compromissos em prazos curtos e longos.\nCapital contracíclico: Incentiva a formação de amortecedores de capital em períodos de crescimento econômico para absorver choques nas crises.",
+      "autoResize": false,
+      "lineHeight": 1.25
+    },
+    {
+      "type": "freedraw",
+      "version": 122,
+      "versionNonce": 1396914161,
+      "index": "av",
+      "isDeleted": false,
+      "id": "0uYbVlXkVDjrmVRaIGnQh",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1318.2869066510898,
+      "y": 1056.3684858793226,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "width": 544.4444444444446,
+      "height": 261.1111111111111,
+      "seed": 2929855,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1725998428166,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          2.2222222222221717,
+          0
+        ],
+        [
+          4.444444444444343,
+          -1.1111111111110858
+        ],
+        [
+          8.888888888888914,
+          -3.3333333333332575
+        ],
+        [
+          13.333333333333485,
+          -4.444444444444343
+        ],
+        [
+          17.77777777777783,
+          -7.777777777777601
+        ],
+        [
+          24.444444444444343,
+          -10
+        ],
+        [
+          28.888888888888914,
+          -13.333333333333258
+        ],
+        [
+          33.333333333333485,
+          -16.666666666666515
+        ],
+        [
+          37.77777777777783,
+          -21.111111111111086
+        ],
+        [
+          43.333333333333485,
+          -23.333333333333258
+        ],
+        [
+          46.66666666666674,
+          -26.666666666666515
+        ],
+        [
+          51.11111111111131,
+          -30
+        ],
+        [
+          55.55555555555566,
+          -34.44444444444434
+        ],
+        [
+          58.888888888888914,
+          -38.8888888888888
+        ],
+        [
+          63.333333333333485,
+          -43.33333333333326
+        ],
+        [
+          70,
+          -51.111111111111086
+        ],
+        [
+          73.33333333333348,
+          -55.55555555555554
+        ],
+        [
+          75.55555555555566,
+          -62.22222222222217
+        ],
+        [
+          76.66666666666674,
+          -67.77777777777771
+        ],
+        [
+          77.77777777777783,
+          -72.22222222222217
+        ],
+        [
+          78.88888888888891,
+          -77.77777777777771
+        ],
+        [
+          81.11111111111109,
+          -82.22222222222217
+        ],
+        [
+          84.44444444444434,
+          -88.8888888888888
+        ],
+        [
+          86.66666666666674,
+          -93.33333333333326
+        ],
+        [
+          90,
+          -98.8888888888888
+        ],
+        [
+          92.22222222222217,
+          -105.55555555555554
+        ],
+        [
+          95.55555555555566,
+          -111.11111111111109
+        ],
+        [
+          98.88888888888891,
+          -115.55555555555554
+        ],
+        [
+          103.33333333333348,
+          -120
+        ],
+        [
+          110,
+          -126.66666666666663
+        ],
+        [
+          114.44444444444434,
+          -131.1111111111111
+        ],
+        [
+          118.88888888888891,
+          -135.55555555555554
+        ],
+        [
+          123.33333333333348,
+          -141.1111111111111
+        ],
+        [
+          128.8888888888889,
+          -145.55555555555554
+        ],
+        [
+          133.33333333333348,
+          -149.9999999999999
+        ],
+        [
+          137.77777777777783,
+          -154.44444444444434
+        ],
+        [
+          142.22222222222217,
+          -158.8888888888888
+        ],
+        [
+          146.66666666666674,
+          -163.33333333333326
+        ],
+        [
+          151.1111111111111,
+          -167.77777777777771
+        ],
+        [
+          157.77777777777783,
+          -174.44444444444434
+        ],
+        [
+          163.33333333333348,
+          -178.8888888888888
+        ],
+        [
+          167.77777777777783,
+          -183.33333333333326
+        ],
+        [
+          172.22222222222217,
+          -187.77777777777771
+        ],
+        [
+          176.66666666666674,
+          -192.22222222222217
+        ],
+        [
+          182.22222222222217,
+          -196.66666666666663
+        ],
+        [
+          186.66666666666674,
+          -199.9999999999999
+        ],
+        [
+          193.33333333333348,
+          -203.33333333333326
+        ],
+        [
+          197.77777777777783,
+          -205.55555555555554
+        ],
+        [
+          202.22222222222217,
+          -207.77777777777771
+        ],
+        [
+          207.77777777777783,
+          -208.8888888888888
+        ],
+        [
+          213.33333333333348,
+          -209.9999999999999
+        ],
+        [
+          218.8888888888889,
+          -211.1111111111111
+        ],
+        [
+          224.44444444444434,
+          -213.33333333333326
+        ],
+        [
+          233.33333333333348,
+          -218.8888888888888
+        ],
+        [
+          238.8888888888889,
+          -221.1111111111111
+        ],
+        [
+          243.33333333333348,
+          -222.22222222222217
+        ],
+        [
+          247.77777777777783,
+          -224.44444444444434
+        ],
+        [
+          252.22222222222217,
+          -225.55555555555554
+        ],
+        [
+          256.66666666666674,
+          -226.66666666666663
+        ],
+        [
+          263.3333333333335,
+          -229.9999999999999
+        ],
+        [
+          270,
+          -231.1111111111111
+        ],
+        [
+          273.3333333333335,
+          -232.22222222222217
+        ],
+        [
+          286.66666666666674,
+          -233.33333333333326
+        ],
+        [
+          294.44444444444434,
+          -234.44444444444434
+        ],
+        [
+          302.2222222222222,
+          -235.55555555555554
+        ],
+        [
+          306.66666666666674,
+          -236.66666666666663
+        ],
+        [
+          311.1111111111111,
+          -237.77777777777771
+        ],
+        [
+          315.55555555555566,
+          -238.8888888888888
+        ],
+        [
+          320,
+          -241.1111111111111
+        ],
+        [
+          324.44444444444457,
+          -242.22222222222217
+        ],
+        [
+          331.1111111111111,
+          -244.44444444444434
+        ],
+        [
+          336.66666666666674,
+          -245.55555555555554
+        ],
+        [
+          341.1111111111111,
+          -245.55555555555554
+        ],
+        [
+          345.55555555555566,
+          -246.66666666666663
+        ],
+        [
+          350,
+          -247.77777777777771
+        ],
+        [
+          354.44444444444457,
+          -248.8888888888888
+        ],
+        [
+          358.8888888888889,
+          -249.9999999999999
+        ],
+        [
+          365.55555555555566,
+          -251.1111111111111
+        ],
+        [
+          370,
+          -251.1111111111111
+        ],
+        [
+          374.44444444444457,
+          -252.22222222222217
+        ],
+        [
+          381.1111111111111,
+          -252.22222222222217
+        ],
+        [
+          387.7777777777778,
+          -253.33333333333326
+        ],
+        [
+          397.7777777777778,
+          -254.44444444444434
+        ],
+        [
+          405.55555555555566,
+          -254.44444444444434
+        ],
+        [
+          411.1111111111111,
+          -254.44444444444434
+        ],
+        [
+          415.55555555555566,
+          -254.44444444444434
+        ],
+        [
+          422.2222222222222,
+          -254.44444444444434
+        ],
+        [
+          426.66666666666674,
+          -254.44444444444434
+        ],
+        [
+          431.1111111111111,
+          -254.44444444444434
+        ],
+        [
+          433.33333333333326,
+          -254.44444444444434
+        ],
+        [
+          436.66666666666674,
+          -254.44444444444434
+        ],
+        [
+          440,
+          -254.44444444444434
+        ],
+        [
+          443.33333333333326,
+          -254.44444444444434
+        ],
+        [
+          447.7777777777778,
+          -254.44444444444434
+        ],
+        [
+          454.44444444444457,
+          -254.44444444444434
+        ],
+        [
+          458.8888888888889,
+          -254.44444444444434
+        ],
+        [
+          463.33333333333326,
+          -255.55555555555554
+        ],
+        [
+          466.66666666666674,
+          -255.55555555555554
+        ],
+        [
+          471.1111111111111,
+          -256.66666666666663
+        ],
+        [
+          475.55555555555566,
+          -256.66666666666663
+        ],
+        [
+          478.8888888888889,
+          -257.7777777777777
+        ],
+        [
+          485.55555555555566,
+          -258.8888888888888
+        ],
+        [
+          490,
+          -259.9999999999999
+        ],
+        [
+          497.7777777777778,
+          -261.1111111111111
+        ],
+        [
+          503.33333333333326,
+          -261.1111111111111
+        ],
+        [
+          507.7777777777778,
+          -261.1111111111111
+        ],
+        [
+          511.1111111111111,
+          -261.1111111111111
+        ],
+        [
+          515.5555555555557,
+          -261.1111111111111
+        ],
+        [
+          520,
+          -259.9999999999999
+        ],
+        [
+          524.4444444444446,
+          -258.8888888888888
+        ],
+        [
+          531.1111111111111,
+          -257.7777777777777
+        ],
+        [
+          535.5555555555557,
+          -257.7777777777777
+        ],
+        [
+          537.7777777777778,
+          -256.66666666666663
+        ],
+        [
+          540,
+          -256.66666666666663
+        ],
+        [
+          541.1111111111111,
+          -256.66666666666663
+        ],
+        [
+          542.2222222222222,
+          -256.66666666666663
+        ],
+        [
+          543.3333333333333,
+          -255.55555555555554
+        ],
+        [
+          544.4444444444446,
+          -255.55555555555554
+        ],
+        [
+          544.4444444444446,
+          -255.55555555555554
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "simulatePressure": true,
+      "pressures": []
+    },
+    {
+      "type": "freedraw",
+      "version": 53,
+      "versionNonce": 304840895,
+      "index": "aw",
+      "isDeleted": false,
+      "id": "SweyBzO47MTG1gmxcPuJe",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1826.0646844288676,
+      "y": 766.3684858793227,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "width": 54.44444444444434,
+      "height": 65.55555555555554,
+      "seed": 2062159999,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1725998435669,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1.1111111111110858,
+          0
+        ],
+        [
+          2.2222222222221717,
+          1.1111111111110858
+        ],
+        [
+          4.444444444444343,
+          2.2222222222222854
+        ],
+        [
+          7.777777777777828,
+          3.3333333333333712
+        ],
+        [
+          12.222222222222172,
+          5.555555555555543
+        ],
+        [
+          16.666666666666515,
+          6.6666666666667425
+        ],
+        [
+          23.333333333333258,
+          10
+        ],
+        [
+          26.666666666666515,
+          10
+        ],
+        [
+          27.77777777777783,
+          10
+        ],
+        [
+          30,
+          12.222222222222285
+        ],
+        [
+          32.22222222222217,
+          13.333333333333371
+        ],
+        [
+          35.55555555555543,
+          15.555555555555543
+        ],
+        [
+          38.888888888888914,
+          17.77777777777783
+        ],
+        [
+          43.33333333333326,
+          21.111111111111086
+        ],
+        [
+          44.44444444444434,
+          22.222222222222285
+        ],
+        [
+          46.666666666666515,
+          24.444444444444457
+        ],
+        [
+          51.111111111111086,
+          28.888888888888914
+        ],
+        [
+          53.33333333333326,
+          31.111111111111086
+        ],
+        [
+          54.44444444444434,
+          32.222222222222285
+        ],
+        [
+          54.44444444444434,
+          33.33333333333337
+        ],
+        [
+          54.44444444444434,
+          34.44444444444446
+        ],
+        [
+          54.44444444444434,
+          36.66666666666674
+        ],
+        [
+          53.33333333333326,
+          38.888888888888914
+        ],
+        [
+          51.111111111111086,
+          42.222222222222285
+        ],
+        [
+          47.77777777777783,
+          44.44444444444446
+        ],
+        [
+          44.44444444444434,
+          47.77777777777783
+        ],
+        [
+          40,
+          50
+        ],
+        [
+          35.55555555555543,
+          51.111111111111086
+        ],
+        [
+          31.111111111111086,
+          54.44444444444446
+        ],
+        [
+          27.77777777777783,
+          54.44444444444446
+        ],
+        [
+          24.444444444444343,
+          55.55555555555554
+        ],
+        [
+          21.111111111111086,
+          56.66666666666674
+        ],
+        [
+          20,
+          57.77777777777783
+        ],
+        [
+          18.888888888888914,
+          57.77777777777783
+        ],
+        [
+          17.77777777777783,
+          57.77777777777783
+        ],
+        [
+          15.55555555555543,
+          58.888888888888914
+        ],
+        [
+          11.111111111111086,
+          61.111111111111086
+        ],
+        [
+          7.777777777777828,
+          62.222222222222285
+        ],
+        [
+          5.555555555555429,
+          63.33333333333337
+        ],
+        [
+          3.3333333333332575,
+          64.44444444444446
+        ],
+        [
+          2.2222222222221717,
+          64.44444444444446
+        ],
+        [
+          2.2222222222221717,
+          65.55555555555554
+        ],
+        [
+          2.2222222222221717,
+          65.55555555555554
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "simulatePressure": true,
+      "pressures": []
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
